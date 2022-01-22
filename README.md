@@ -35,6 +35,12 @@ The recommended version are node v11.0.0 and npm v6.4.1
 Open http://localhost:3000 to view the app in the browser. The page will reload if you make edits.
 
 
+Outcome of the Task 3
+
+![Screenshot (277)](https://user-images.githubusercontent.com/76591045/150634336-ee5a7006-714f-45d2-91d1-ba12522c621a.png)
+
+
+
 
 
 
